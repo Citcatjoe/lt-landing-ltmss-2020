@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Metric-Black';
+    src: url('../fonts/Metric-Black.woff2') format('woff2'),
+        url('../fonts/Metric-Black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric-RegularItalic';
+    src: url('../fonts/Metric-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Metric-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric-Regular';
+    src: url('../fonts/Metric-Regular.woff2') format('woff2'),
+        url('../fonts/Metric-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric-Medium';
+    src: url('../fonts/Metric-Medium.woff2') format('woff2'),
+        url('../fonts/Metric-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

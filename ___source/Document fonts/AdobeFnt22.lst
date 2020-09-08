@@ -1,0 +1,116 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/MEDIA/stefan/Desktop/LTMS_2020_GENERAL_Flyer_148x210mm Folder/Document fonts/AdobeFnt22.lst
+FileLength:2439
+FileModTime:620117945
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Metric-Black
+FamilyName:Metric
+StyleName:Black
+MenuName:Metric Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Metric Black
+WritingScript:Roman
+OutlineFileName:/Volumes/MEDIA/stefan/Desktop/LTMS_2020_GENERAL_Flyer_148x210mm Folder/Document fonts/Metric-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50656
+FileModTime:545210121
+NameArray:0,Mac,4,Metric Black
+NameArray:0,Win,1,Metric Black
+NameArray:0,Win,16,Metric
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Metric-Medium
+FamilyName:Metric
+StyleName:Medium
+MenuName:Metric Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Metric Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/MEDIA/stefan/Desktop/LTMS_2020_GENERAL_Flyer_148x210mm Folder/Document fonts/Metric-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47260
+FileModTime:543415990
+NameArray:0,Mac,4,Metric Medium
+NameArray:0,Win,1,Metric Medium
+NameArray:0,Win,16,Metric
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Metric-Regular
+FamilyName:Metric
+StyleName:Regular
+MenuName:Metric Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Metric
+WritingScript:Roman
+OutlineFileName:/Volumes/MEDIA/stefan/Desktop/LTMS_2020_GENERAL_Flyer_148x210mm Folder/Document fonts/Metric-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49292
+FileModTime:543415990
+NameArray:0,Mac,18,Metric Regular
+NameArray:0,Mac,4,Metric
+NameArray:0,Win,1,Metric Regular
+NameArray:0,Win,16,Metric
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Metric-RegularItalic
+FamilyName:Metric
+StyleName:Regular Italic
+MenuName:Metric Regular
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Metric Regular Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/MEDIA/stefan/Desktop/LTMS_2020_GENERAL_Flyer_148x210mm Folder/Document fonts/Metric-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50776
+FileModTime:545210097
+NameArray:0,Mac,4,Metric Regular Italic
+NameArray:0,Win,1,Metric Regular
+NameArray:0,Win,16,Metric
+%EndFont
+
